@@ -1,0 +1,16 @@
+APLICACION AWS: 
+Nombre Equipo: ec2-3-144-123-165.us-east-2.compute.amazonaws.com
+Usuario: EC2AMAZ-F8TVRKV\Administrator
+Contraseña: hp!&Gc=ZD7kY6M=ihCZ!@)M=Mll98?OX
+
+Para acceder a la aplicacion desde el navegador http://ec2-3-144-123-165.us-east-2.compute.amazonaws.com:8080/tiendavirtual-0.0.1-SNAPSHOT/
+
+GIT: https://github.com/jhonatanlyly/TiendaVirtual
+
+TRELLO: 
+https://trello.com/b/D9E3fgnW/sprint-0
+https://trello.com/b/WT1kx5Yd/sprint-1
+https://trello.com/b/JAx8mDGY/sprint-2
+https://trello.com/b/2ZXohSai/sprint-3
+https://trello.com/b/K6qJ59J3/sprint-4
+https://trello.com/b/xjdrR3lF/sprint-5

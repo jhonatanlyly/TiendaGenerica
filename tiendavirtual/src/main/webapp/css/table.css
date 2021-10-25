@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+table{
+    border-style: ridge;
+    border-collapse: collapse;
+    box-shadow: darkgrey 10px 10px 5px;
+}
+
+.table{
+	width: 70% !important;
+	position: relative;
+	left: 15%;
+	top: 20px;
+	font-size: 14px;
+	font-family: Arial;    
+}
+
+td,th{
+    border-style: ridge;
+    border-color: darkblue;
+    padding: 5px;
+}
+
+td{
+    text-align: center;
+}
+
+tr:hover{  /*estas propiedades se activan cada vez que pase el mouse por encima del elemento seleccionado (td) */
+    background-color: rgba(100, 148, 237, 0.39);
+}
